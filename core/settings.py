@@ -19,7 +19,7 @@ DEBUG = os.environ.get("DEBUG", "False") == "True"
 
 ALLOWED_HOSTS = os.environ.get(
     "ALLOWED_HOSTS",
-    "lumoratriad-backend.onrender.com"
+    "lumoratriad-backend-1.onrender.com"
 ).split(",")
 
 
