@@ -66,6 +66,10 @@ CORS_ALLOWED_ORIGINS = [
     "https://lumoratriad-frontend.vercel.app",
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    "https://lumoratriad-frontend.vercel.app",
+]
+
 
 
 # =====================================================
