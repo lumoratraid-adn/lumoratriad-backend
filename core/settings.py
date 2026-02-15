@@ -62,9 +62,9 @@ MIDDLEWARE = [
 # =====================================================
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:3000",
-    "https://lumoratriad-frontend-adn.vercel.app",
+    "https://lumoratriad-frontend.vercel.app",
 ]
+
 
 
 # =====================================================
